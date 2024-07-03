@@ -1,5 +1,4 @@
 #支持指定架构
 #--platform=linux/amd64
 
-bitnami/kafka:3.7.1
-redpandadata/console:v2.6.0
+eipwork/nfs-subdir-external-provisioner:v4.0.2
