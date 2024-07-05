@@ -1,4 +1,17 @@
 #支持指定架构
 #--platform=linux/amd64
 
-eipwork/nfs-subdir-external-provisioner:v4.0.2
+redis:7.2.5
+nginx:1.27.0
+bitnami/minio:2024.7.4
+flannel/flannel:v0.25.4
+flannel/flannel:v0.24.3
+jenkins/jenkins:2.426.2
+gitea/gitea:1.22.1
+gitlab/gitlab-ce:17.1.1-ce.0
+gitlab/gitlab-ee:17.1.1-ee.0
+gitlab/gitlab-runner:v17.1.0
+apache/rocketmq:5.2.0
+apache/rocketmq:v4.9.8-1
+apacherocketmq/rocketmq-console:2.0.0
+styletang/rocketmq-console-ng:1.0.0
