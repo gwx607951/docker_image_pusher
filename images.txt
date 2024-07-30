@@ -1,5 +1,5 @@
 #支持指定架构
 #--platform=linux/amd64
 
-apacherocketmq/rocketmq-console:2.0.0
-styletang/rocketmq-console-ng:1.0.0
+eipwork/kuboard:v3.5.2.7
+eipwork/kuboard:v4
