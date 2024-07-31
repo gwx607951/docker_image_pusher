@@ -1,5 +1,4 @@
 #支持指定架构
 #--platform=linux/amd64
 
-eipwork/kuboard:v3.5.2.7
-eipwork/kuboard:v4
+linuxserver/openssh-server
