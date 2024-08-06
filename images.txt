@@ -1,4 +1,5 @@
 #支持指定架构
 #--platform=linux/amd64
 
-kubesphere/ks-installer:v3.4.0
+registry:latest
+joxit/docker-registry-ui:latest
