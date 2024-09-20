@@ -1,4 +1,5 @@
 #支持指定架构
 #--platform=linux/amd64
 
-1panel/kubepi:v1.8.0
+arm64v8/busybox
+busybox
