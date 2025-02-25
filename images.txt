@@ -1,5 +1,4 @@
 #支持指定架构
 #--platform=linux/amd64
 
-apache/skywalking-oap-server:latest
-apache/skywalking-ui:latest
+curlimages/curl:latest
