@@ -1,5 +1,4 @@
 #支持指定架构
 #--platform=linux/amd64
 
-nginx:latest
-opensearchproject/opensearch-dashboards:latest
+opensearchproject/opensearch:latest
