@@ -1,4 +1,4 @@
 #支持指定架构
 #--platform=linux/amd64
 
-minio/minio:RELEASE.2023-03-20T20-16-18Z
+myscale/myscaledb:1.6.4
