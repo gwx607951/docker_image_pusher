@@ -1,8 +1,4 @@
 #支持指定架构
 #--platform=linux/amd64
 
-quay.io/oceanbase/oceanbase-ce:4.3.3.0-100000142024101215
-redis:6-alpine
-semitechnologies/weaviate:1.19.0
-tensorchord/pgvecto-rs:pg16-v0.3.0
-ubuntu/squid:latest
+langgenius/dify-api:1.0.0
