@@ -1,4 +1,12 @@
 #支持指定架构
 #--platform=linux/amd64
 
-langgenius/dify-web:main
+goharbor/harbor-log:v2.10.0
+goharbor/registry-photon:v2.10.0
+goharbor/harbor-registryctl:v2.10.0
+goharbor/harbor-db:v2.10.0
+goharbor/harbor-core:v2.10.0
+goharbor/harbor-portal:v2.10.0
+goharbor/harbor-jobservice:v2.10.0
+goharbor/redis-photon:v2.10.0
+goharbor/nginx-photon:v2.10.0
