@@ -1,12 +1,5 @@
 #支持指定架构
 #--platform=linux/amd64
 
-goharbor/harbor-log:v2.10.0
-goharbor/registry-photon:v2.10.0
-goharbor/harbor-registryctl:v2.10.0
-goharbor/harbor-db:v2.10.0
-goharbor/harbor-core:v2.10.0
-goharbor/harbor-portal:v2.10.0
-goharbor/harbor-jobservice:v2.10.0
-goharbor/redis-photon:v2.10.0
-goharbor/nginx-photon:v2.10.0
+1panel/maxkb:v1.10.4-lts
+mysql:8.4.5
