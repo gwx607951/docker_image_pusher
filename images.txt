@@ -1,5 +1,5 @@
 #支持指定架构
 #--platform=linux/amd64
 
-ubuntu/squid:latest
-certbot/certbot
+nginx:latest
+semitechnologies/weaviate:1.19.0
