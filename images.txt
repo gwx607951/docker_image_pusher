@@ -2,7 +2,3 @@
 #--platform=linux/amd64
 
 langgenius/dify-plugin-daemon:0.0.9-local
-ubuntu/squid:latest
-certbot/certbot
-nginx:latest
-semitechnologies/weaviate:1.19.0
