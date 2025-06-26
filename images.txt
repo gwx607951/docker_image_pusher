@@ -1,6 +1,4 @@
 #支持指定架构
 #--platform=linux/amd64
 
-
-nginx
-dockette/jdk8
+excalidraw/excalidraw:latest
