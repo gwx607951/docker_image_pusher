@@ -1,4 +1,5 @@
 #支持指定架构
 #--platform=linux/amd64
 
-eipwork/kuboard:v3.5.2.9
+nacos/nacos-server:v3.1.1
+nacos/nacos-server:v2.5.2
