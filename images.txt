@@ -1,4 +1,4 @@
 #支持指定架构
 #--platform=linux/amd64
 
-nginx/nginx:1.29.4
+nginx:1.29.4
