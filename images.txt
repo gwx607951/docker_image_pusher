@@ -1,5 +1,5 @@
 #支持指定架构
 #--platform=linux/amd64
 
-ghcr.io/flannel-io/flannel-cni-plugin:v1.8.0-flannel1
-ghcr.io/flannel-io/flannel:v0.27.4
+eipwork/metrics-server:v0.6.2
+kubernetesui/metrics-scraper:v1.0.8
