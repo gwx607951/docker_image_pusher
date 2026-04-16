@@ -1,6 +1,4 @@
 #支持指定架构
 #--platform=linux/amd64
 
-redis:7.0.0-alpine
-redis:7.0.0
-
+libreofficedocker/libreoffice-unoserver:latest
