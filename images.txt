@@ -1,4 +1,4 @@
 #支持指定架构
 #--platform=linux/amd64
 
-libreofficedocker/libreoffice-unoserver:latest
+libreofficedocker/libreoffice-unoserver:3.22-0147224
