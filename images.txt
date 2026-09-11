@@ -1,4 +1,4 @@
 #支持指定架构
 #--platform=linux/amd64
 
-library/amazoncorretto:25.0.4
+library/eclipse-temurin:25-jre-jammy
