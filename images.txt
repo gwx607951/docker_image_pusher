@@ -1,4 +1,4 @@
 #支持指定架构
 #--platform=linux/amd64
 
-library/node:20.20.2
+library/node:18.20.4-bookworm-slim
